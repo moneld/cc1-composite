@@ -1,0 +1,15 @@
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/bin/Debug/net6.0/cc1-composite
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/bin/Debug/net6.0/cc1-composite.deps.json
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/bin/Debug/net6.0/cc1-composite.runtimeconfig.json
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/bin/Debug/net6.0/cc1-composite.dll
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/bin/Debug/net6.0/ref/cc1-composite.dll
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/bin/Debug/net6.0/cc1-composite.pdb
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/obj/Debug/net6.0/cc1-composite.csproj.AssemblyReference.cache
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/obj/Debug/net6.0/cc1-composite.GeneratedMSBuildEditorConfig.editorconfig
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/obj/Debug/net6.0/cc1-composite.AssemblyInfoInputs.cache
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/obj/Debug/net6.0/cc1-composite.AssemblyInfo.cs
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/obj/Debug/net6.0/cc1-composite.csproj.CoreCompileInputs.cache
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/obj/Debug/net6.0/cc1-composite.dll
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/obj/Debug/net6.0/ref/cc1-composite.dll
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/obj/Debug/net6.0/cc1-composite.pdb
+/home/moneld/Labdev/net/cc1-composite/cc1-composite/obj/Debug/net6.0/cc1-composite.genruntimeconfig.cache
